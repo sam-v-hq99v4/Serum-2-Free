@@ -79,6 +79,7 @@ Final Mix
 
 Don't add modulation everywhere immediately. A few carefully chosen modulation sources usually produce a cleaner and more controllable patch.
 
+
 ---
 
 ## 🎹 Presets & Sound Libraries
