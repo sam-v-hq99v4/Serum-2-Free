@@ -16,6 +16,7 @@
 </p>
 
 
+
 <img width="1171" height="724" alt="{8777F7BB-4929-4EBD-908A-9A5E3725B18C}" src="https://github.com/user-attachments/assets/f91a7900-a1b8-4e7f-86bc-b53679fb9aae" />
 
 **Serum 2** is a modern synthesizer and sound-design tool for producers, musicians, and electronic music creators. This repository is a practical resource for learning Serum 2, exploring sound design, finding useful presets, and improving your workflow.
